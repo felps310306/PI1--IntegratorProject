@@ -35,11 +35,11 @@ MySQL
 (ajusta com seu grupo real, mas já deixei um modelo)
 
 Membro	Papel
-👑 Felipe Barbosa	Desenvolvedor Full-Stack
-💻 Integrante 2	Front-end
-💻 Integrante 3	Back-end
-🧪 Integrante 4	Testes / Documentação
-📂 4. Estrutura do Repositório
+👑 Felipe Barbosa 	Desenvolvedor Full-Stack
+💻 Nicolas 2	Front-end
+💻 Nicolas 3	Back-end
+🧪 Matheus 4	Testes / Documentação
+📂 Arthur 4. Estrutura do Repositório
 
 A organização do projeto seguirá uma estrutura simples e modular:
 
