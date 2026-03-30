@@ -32,8 +32,6 @@ Java (Servlets)
 MySQL
 👥 3. Membros da Equipe e Papéis
 
-(ajusta com seu grupo real, mas já deixei um modelo)
-
 Membro	Papel
 👑 Felipe Barbosa 	Desenvolvedor Full-Stack
 💻 Nicolas 2	Front-end
