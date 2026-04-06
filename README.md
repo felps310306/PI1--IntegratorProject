@@ -35,7 +35,7 @@ MySQL
 Membro	Papel
 👑 Felipe Barbosa 	Desenvolvedor Full-Stack
 💻 Nicolas 2	Front-end
-💻 Nicolas 3	Back-end
+💻 Flavio 3	Back-end
 🧪 Matheus 4	Testes / Documentação
 📂 Arthur 4. Estrutura do Repositório
 
