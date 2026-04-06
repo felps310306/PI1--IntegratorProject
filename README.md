@@ -48,4 +48,4 @@ A organização do projeto seguirá uma estrutura simples e modular:
 📦 /model: Classes de domínio
 📈 Status do Projeto
 
-🚧 Em desenvolvimento (fase de MVP)
+✅ MVP desenvolvido e validado
