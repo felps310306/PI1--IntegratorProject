@@ -41,18 +41,27 @@ MySQL
 👥 3. Membros da Equipe e Papéis:
 
 👑 Felipe Barbosa 1. Desenvolvedor Full-Stack
+
 💻 Nicolas 2. Front-end
+
 💻 Flavio 3.	Back-end
+
 🧪 Matheus 4.	Testes / Documentação
+
 📂 Arthur 5. Estrutura do Repositório
 
 A organização do projeto seguirá uma estrutura simples e modular:
 
 📄 /docs: Documentação do projeto
+
 🎨 /front: Interface do usuário (Angular)
+
 🗄️ /db: Scripts e estrutura do banco de dados
+
 ⚙️ /backend: Lógica da aplicação (Java)
+
 📦 /model: Classes de domínio
+
 📈 Status do Projeto
 
 ✅ MVP desenvolvido e validado
