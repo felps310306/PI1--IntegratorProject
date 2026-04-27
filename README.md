@@ -1,24 +1,25 @@
 # PI1--IntegratorProject
-🚀 1. Descrição do Projeto O projeto consiste em um aplicativo de controle financeiro pessoal que busca resolver a falta de clareza sobre para onde o dinheiro do usuário está indo ao longo do mês.
-A proposta é desenvolver um sistema simples e intuitivo que permita ao usuário registrar seus gastos e visualizar essas informações de forma clara, facilitando o entendimento do seu comportamento financeiro.
+📊 Sobre o Projeto
 
-O objetivo principal é centralizar os gastos em um único lugar e apresentar os dados de forma acessível, ajudando o usuário a tomar decisões mais conscientes sobre seu dinheiro.
+Este projeto tem como objetivo analisar o nível de acesso e conhecimento em planejamento financeiro entre jovens, com foco em identificar dificuldades, hábitos de consumo e oportunidades de melhoria na educação financeira.
+
+A iniciativa utiliza técnicas de análise de dados para entender o comportamento financeiro dos jovens e propor soluções que incentivem o uso consciente do dinheiro e o planejamento a longo prazo.
 
 Este repositório contém o MVP (Produto Mínimo Viável) e a documentação inicial desenvolvidos para a disciplina de Projeto Integrador I.
 
-🎯 2. Objetivos Iniciais
+🎯 Objetivos
+🧩 Objetivo Geral
 
-Para a primeira fase do projeto, o foco está no desenvolvimento de um MVP funcional que valide a utilidade da solução. Os objetivos são:
+Realizar a coleta, análise e visualização de dados sobre o comportamento financeiro de jovens.
 
-💰 Registrar Gastos: Permitir que o usuário adicione seus gastos de forma rápida e simples.
+📍 Objetivos Específicos
 
-📋 Visualizar Gastos: Exibir uma lista com todos os gastos registrados.
-
-📊 Calcular Total Mensal: Apresentar o total gasto no mês.
-
-💡 Exibir Saldo Restante: Mostrar quanto ainda resta com base em uma renda mensal definida.
-
-🧪 Validar a Solução: Verificar se o sistema ajuda o usuário a entender melhor seus hábitos financeiros.
+📥 Coletar dados sobre renda, gastos, poupança e hábitos financeiros de jovens
+🧹 Tratar e organizar os dados coletados
+🔍 Identificar padrões de consumo e comportamento financeiro
+⚠️ Analisar fatores de risco (endividamento, falta de planejamento, uso de crédito)
+📊 Criar visualizações intuitivas (gráficos e indicadores)
+🖥️ Desenvolver um dashboard interativo para acompanhamento dos dados
 
 🛠️ Tecnologias Utilizadas
 
@@ -30,14 +31,15 @@ JavaScript
 Angular
 Java (Servlets)
 MySQL
+
 👥 3. Membros da Equipe e Papéis
 
 Membro	Papel
-👑 Felipe Barbosa 	Desenvolvedor Full-Stack
-💻 Nicolas 2	Front-end
-💻 Flavio 3	Back-end
-🧪 Matheus 4	Testes / Documentação
-📂 Arthur 4. Estrutura do Repositório
+👑 Felipe Barbosa 1. Desenvolvedor Full-Stack
+💻 Nicolas 2. Front-end
+💻 Flavio 3.	Back-end
+🧪 Matheus 4.	Testes / Documentação
+📂 Arthur 5. Estrutura do Repositório
 
 A organização do projeto seguirá uma estrutura simples e modular:
 
