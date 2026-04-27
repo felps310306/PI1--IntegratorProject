@@ -14,12 +14,17 @@ Realizar a coleta, análise e visualização de dados sobre o comportamento fina
 
 📍 Objetivos Específicos
 
-📥 Coletar dados sobre renda, gastos, poupança e hábitos financeiros de jovens
-🧹 Tratar e organizar os dados coletados
-🔍 Identificar padrões de consumo e comportamento financeiro
-⚠️ Analisar fatores de risco (endividamento, falta de planejamento, uso de crédito)
-📊 Criar visualizações intuitivas (gráficos e indicadores)
-🖥️ Desenvolver um dashboard interativo para acompanhamento dos dados
+📥 Coletar dados sobre renda, gastos, poupança e hábitos financeiros de jovens.
+
+🧹 Tratar e organizar os dados coletados.
+
+🔍 Identificar padrões de consumo e comportamento financeiro.
+
+⚠️ Analisar fatores de risco (endividamento, falta de planejamento, uso de crédito).
+
+📊 Criar visualizações intuitivas (gráficos e indicadores).
+
+🖥️ Desenvolver um dashboard interativo para acompanhamento dos dados.
 
 🛠️ Tecnologias Utilizadas
 
