@@ -8,6 +8,7 @@ A iniciativa utiliza técnicas de análise de dados para entender o comportament
 Este repositório contém o MVP (Produto Mínimo Viável) e a documentação inicial desenvolvidos para a disciplina de Projeto Integrador I.
 
 🎯 Objetivos
+
 🧩 Objetivo Geral
 
 Realizar a coleta, análise e visualização de dados sobre o comportamento financeiro de jovens.
@@ -26,7 +27,7 @@ Realizar a coleta, análise e visualização de dados sobre o comportamento fina
 
 🖥️ Desenvolver um dashboard interativo para acompanhamento dos dados.
 
-🛠️ Tecnologias Utilizadas
+🛠️ Tecnologias Utilizadas:
 
 O projeto será desenvolvido utilizando tecnologias simples e eficientes, com foco no aprendizado e na construção do MVP:
 
@@ -37,9 +38,8 @@ Angular
 Java (Servlets)
 MySQL
 
-👥 3. Membros da Equipe e Papéis
+👥 3. Membros da Equipe e Papéis:
 
-Membro	Papel
 👑 Felipe Barbosa 1. Desenvolvedor Full-Stack
 💻 Nicolas 2. Front-end
 💻 Flavio 3.	Back-end
