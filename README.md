@@ -7,8 +7,6 @@ A iniciativa utiliza técnicas de análise de dados para entender o comportament
 
 Este repositório contém o MVP (Produto Mínimo Viável) e a documentação inicial desenvolvidos para a disciplina de Projeto Integrador I.
 
-🎯 Objetivos
-
 🧩 Objetivo Geral
 
 Realizar a coleta, análise e visualização de dados sobre o comportamento financeiro de jovens.
