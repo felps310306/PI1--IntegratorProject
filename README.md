@@ -34,7 +34,8 @@ CSS3
 JavaScript
 Angular
 Java (Servlets)
-MySQL
+Python 
+MySQL (cweijan)
 
 👥 3. Membros da Equipe e Papéis:
 
@@ -56,7 +57,7 @@ A organização do projeto seguirá uma estrutura simples e modular:
 
 🗄️ /db: Scripts e estrutura do banco de dados
 
-⚙️ /backend: Lógica da aplicação (Java)
+⚙️ /backend: Lógica da aplicação (Java && Python)
 
 📦 /model: Classes de domínio
 
