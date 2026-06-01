@@ -1,19 +1,19 @@
 # PI1--IntegratorProject
 📊 Sobre o Projeto
 
-Este projeto tem como objetivo analisar o nível de acesso e conhecimento em planejamento financeiro entre jovens, com foco em identificar dificuldades, hábitos de consumo e oportunidades de melhoria na educação financeira.
+Este projeto tem como objetivo criar um dashboard interativo sobre dados públicos da economia, visando a obtenção de insights e apoio a tomada de decisão.
 
-A iniciativa utiliza técnicas de análise de dados para entender o comportamento financeiro dos jovens e propor soluções que incentivem o uso consciente do dinheiro e o planejamento a longo prazo.
+A iniciativa utiliza técnicas de análise de dados para entender como fatores econômicos e temporais afetam o endividamento da população.
 
 Este repositório contém o MVP (Produto Mínimo Viável) e a documentação inicial desenvolvidos para a disciplina de Projeto Integrador I.
 
 🧩 Objetivo Geral
 
-Realizar a coleta, análise e visualização de dados sobre o comportamento financeiro de jovens.
+Realizar a coleta, análise e visualização de dados sobre o endividamento no Brasil.
 
 📍 Objetivos Específicos
 
-📥 Coletar dados sobre renda, gastos, poupança e hábitos financeiros de jovens.
+📥 Coletar dados sobre desemprego, inflação, taxa SELIC, concessão de crédito.
 
 🧹 Tratar e organizar os dados coletados.
 
@@ -29,13 +29,8 @@ Realizar a coleta, análise e visualização de dados sobre o comportamento fina
 
 O projeto será desenvolvido utilizando tecnologias simples e eficientes, com foco no aprendizado e na construção do MVP:
 
-HTML5
-CSS3
-JavaScript
-Angular
-Java (Servlets)
-Python 
-MySQL (cweijan)
+Python para consumo de API e tratamento dos dados
+PowerBI para a visualização dos resultados e obtenção de insights.
 
 👥 3. Membros da Equipe e Papéis:
 
@@ -47,19 +42,14 @@ MySQL (cweijan)
 
 🧪 Matheus 4.	Testes / Documentação
 
-📂 Arthur 5. Estrutura do Repositório
+🧪 Arthur 5. Coleta, tratamento e visualisação dos dados
 
 A organização do projeto seguirá uma estrutura simples e modular:
 
-📄 /docs: Documentação do projeto
-
-🎨 /front: Interface do usuário (Angular)
-
-🗄️ /db: Scripts e estrutura do banco de dados
-
-⚙️ /backend: Lógica da aplicação (Java && Python)
-
-📦 /model: Classes de domínio
+🎨 /design: Contém todos os arquivos de design, como mockups, imagens, fontes e paletas de cores.
+📄 /docs: Centraliza toda a documentação do projeto, incluindo atas de reunião, especificações e este README.
+🕹️ /prototype: Espaço para protótipos executáveis e provas de conceito.
+👨‍💻 /src: Código-fonte principal da aplicação(Scripts de ETL)
 
 📈 Status do Projeto
 
