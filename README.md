@@ -34,15 +34,15 @@ PowerBI para a visualização dos resultados e obtenção de insights.
 
 👥 3. Membros da Equipe e Papéis:
 
-👑 Felipe Barbosa 1. Desenvolvedor Full-Stack
+👑 Felipe Barbosa 1. PO(Product Owner)
 
 💻 Nicolas 2. Front-end
 
 💻 Flavio 3.	Back-end
 
-🧪 Matheus 4.	Testes / Documentação
+🧪 Matheus 4. Scrum Master
 
-🧪 Arthur 5. Coleta, tratamento e visualisação dos dados
+🧪 Arthur 5. Coleta, tratamento e visualisação dos dados e documentação
 
 A organização do projeto seguirá uma estrutura simples e modular:
 
