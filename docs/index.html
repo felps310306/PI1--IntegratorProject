@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CashFY</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f4f6f9;
+            color: #333;
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+            overflow: hidden;
+        }
+        header {
+            background-color: #1b365d;
+            color: #ffffff;
+            padding: 15px 30px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            z-index: 10;
+        }
+
+        .title-container h1 {
+            font-size: 1.4rem;
+            font-weight: 600;
+            letter-spacing: -0.5px;
+        }
+
+        .title-container p {
+            font-size: 0.85rem;
+            color: #a4bccc;
+            margin-top: 2px;
+        }
+
+        .team-credits {
+            text-align: right;
+            font-size: 0.85rem;
+            line-height: 1.4;
+        }
+
+        .team-credits strong {
+            color: #17a2b8;
+        }
+
+        .dashboard-container {
+            flex: 1;
+            width: 100%;
+            height: 100%;
+            position: relative;
+            background-color: #ffffff;
+        }
+
+        .dashboard-container iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <div class="title-container">
+            <h1>CashFy</h1>
+            <p>Análise de Crédito, Endividamento e Indicadores do Cenário Brasileiro</p>
+        </div>
+        <div class="team-credits">
+            <p><strong>Curso:</strong> Ciência da Computação (CEUB)</p>
+        </div>
+    </header>
+
+    <main class="dashboard-container">
+        
+<iframe title="ENDIVIDAMENTO" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=9dc5c3fa-b5d1-4829-bf32-a300353ff7ef&autoAuth=true&ctid=dfb66dc4-3f3c-492c-991d-727dbd1c89d4" frameborder="0" allowFullScreen="true"></iframe>
+        </main>
+
+</body>
+</html>
