@@ -44,7 +44,7 @@ PowerBI para a visualização dos resultados e obtenção de insights.
 
 🧪 Matheus 4. Scrum Master
 
-🧪 Arthur 5. Coleta, tratamento e visualisação dos dados e documentação
+🧪 Arthur Kollmann Deters (Detersak) 5. Coleta, tratamento e visualisação dos dados e documentação
 
 A organização do projeto seguirá uma estrutura simples e modular:
 
