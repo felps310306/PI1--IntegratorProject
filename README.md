@@ -1,15 +1,17 @@
 # PI1--IntegratorProject
 📊 Sobre o Projeto
 
-Este projeto tem como objetivo criar um dashboard interativo sobre dados públicos da economia, visando a obtenção de insights e apoio a tomada de decisão.
+O projeto consiste no desenvolvimento de uma plataforma de Business Intelligence (BI) e Engenharia de Dados voltada para a consolidação, tratamento e análise visual de indicadores macroeconômicos e de crédito do cenário brasileiro. 
 
-A iniciativa utiliza técnicas de análise de dados para entender como fatores econômicos e temporais afetam o endividamento da população.
+A solução automatiza o ciclo completo do dado desde a extração por meio de APIs oficiais até a renderização de visuais analíticos complexos, permitindo que gestores, analistas financeiros e órgãos reguladores identifiquem pontos de saturação de crédito, tendências de inadimplência e o impacto da política monetária no orçamento das famílias.
+
+O software foi projetado sob os rigorosos padrões da disciplina de Projeto Integrador I do curso de Ciência da Computação do CEUB, funcionando também como uma atividade de extensão voltada ao entendimento da saúde financeira da sociedade.
 
 Este repositório contém o MVP (Produto Mínimo Viável) e a documentação inicial desenvolvidos para a disciplina de Projeto Integrador I.
 
 🧩 Objetivo Geral
 
-Realizar a coleta, análise e visualização de dados sobre o endividamento no Brasil.
+Construir um pipeline de dados automatizado e um dashboard interativo que correlacione indicadores macroeconômicos (inflação, juros básicos e emprego) com o comportamento do mercado de crédito de pessoa física no Brasil, mitigando os problemas de fragmentação de dados e distorções de escala de visualização.
 
 📍 Objetivos Específicos
 
