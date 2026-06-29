@@ -36,15 +36,15 @@ PowerBI para a visualização dos resultados e obtenção de insights.
 
 👥 3. Membros da Equipe e Papéis:
 
-👑 Felipe Barbosa 1. PO(Product Owner)
+👑 Felipe Barbosa Caldeira Gonçalves 1. PO/SM - https://github.com/felps310306
 
-💻 Nicolas 2. Front-end
+💻 Nicolas Silva Vianna 2. PO/SM - https://github.com/Niicolasz
 
-💻 Flavio 3.	Back-end
+💻 Flavio Bonifacio Felix 3.	AD/DBA (Dev Team) Front/Back - https://github.com/felix2117
 
-🧪 Matheus 4. Scrum Master
+🧪 Matheus Almeida De Paiva Dias 4. (Dev Team) - https://github.com/matheusalmeidadias6-lang
 
-🧪 Arthur Kollmann Deters (Detersak) 5. Coleta, tratamento e visualisação dos dados e documentação
+🧪 Arthur Kollmann Deters (Detersak) 5. Arquiteto (Dev Team) Front/Back, Dados - https://github.com/Detersak
 
 A organização do projeto seguirá uma estrutura simples e modular:
 
